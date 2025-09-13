@@ -40,7 +40,7 @@ If a request fails validation, the API returns a **block response** with a reaso
 ### 1. Validate Request
 
 ```http
-GET https://api.entitygate.com/api/fortest/[shortlinkkey]
+GET https://entitygate.com/api/fortest/[shortlinkkey]
 ```
 
 #### Parameters:
